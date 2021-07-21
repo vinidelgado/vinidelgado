@@ -9,5 +9,5 @@
   
 Sou Vinicius Delgado (Vini), desenvolvedor mobile Android.
   
-:man: 31 anos, desenvolvedor Android na **CI&T**, atuando no ramo de **seguradoras**  
+:man: 32 anos, desenvolvedor Android na **CI&T**, atuando no ramo de **seguradoras**  
 :star: Fã de Kotlin, designer de "araque" e preocupado com acessibilidade nas aplicações.  
