@@ -10,4 +10,12 @@
 Sou Vinicius Delgado (Vini), desenvolvedor mobile Android.
   
 :man: 32 anos, desenvolvedor Android na **CI&T**, atuando no ramo de **seguradoras**  
-:star: Fã de Kotlin, designer de "araque" e preocupado com acessibilidade nas aplicações.  
+:star: Fã de Kotlin, designer de "araque" e preocupado com acessibilidade nas aplicações.
+
+##
+
+<div>
+  <a href="https://github.com/vinidelgado">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vinidelgado&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidelgado&layout=compact&langs_count=7&theme=calm"/>
+</div>
